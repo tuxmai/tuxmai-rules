@@ -8,6 +8,7 @@ Guide:
   -  Suggest improvements.
   -  Give prioritized next steps.
 
+Implement unit tests if new features are creaed. Following the team testing strategy which is in test-rules.
 Run unit tests before changes to understand the status. 
 Run compiling and  unit tests after changes. Fix all new failed unit test.
 
